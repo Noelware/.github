@@ -1,8 +1,6 @@
-# hi this is noelware
-we make cool shit, i think, pls star 🥺 🥺 🥺 🥺 🥺 🥺 i need internet clout to feel some happiness /s
+# Noelware
+> A starting company to provide enriching infrastructure tools and software to the world! 💜
 
-no fr, it would mean a lot if you starred any repo 💙
+Our goal to Noelware is to keep 99.9% of our tools open source to the world, except for internal tools for people who join the organization.
 
-this might be a real company if i push it enough :eye: :lips: :eye:
-
-<small>go follow <a href='https://twitter.com/rainyynoel'>noel</a> on twitter for furry shit iunno #promo</small>
+More on us once we are a real company, right now, it's just a place for [@auguwu](https://github.com/auguwu)'s projects that people might like. :3
