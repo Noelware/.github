@@ -5,6 +5,7 @@
 
 ## Projects
 - [📦 **charted**](https://charts.noelware.org): Free, reliable and open source Helm chart registry made in [Rust](https://rust-lang.org)
+- [🪶 **Hazel**](https://github.com/Noelware/hazel): Simple microservice to proxy over *read-only* files from data storage as a HTTP server.
 
 ## GitHub Organizations
 - [📦 **charted-dev**](https://github.com/charted-dev): Auxillary projects made and used by [`charted`](https://charts.noelware.org)
