@@ -2,10 +2,10 @@
     "$schema": "https://docs.renovatebot.com/renovate-schema.json",
     "description": "Renovate configuration for Noelware's repositories",
     "extends": [
+        ":automergeStableNonMajor",
         "config:recommended",
         "config:best-practices",
         "customManagers:dockerfileVersions",
-        ":automergeStableNonMajor",
         "docker:disableMajor",
         "schedule:earlyMondays"
     ],
@@ -18,5 +18,11 @@
         "commitMessagePrefix": "[SECURITY]",
         "branchTopic": "{{{datasource}}}-{{{depNameSanitized}}}-vulnerability",
         "prCreation": "immediate"
-    }
+    },
+    "packageRules": [
+        {
+            "matchManagers": ["rust-toolchain"],
+            "enabled": false
+        }
+    ]
 }
